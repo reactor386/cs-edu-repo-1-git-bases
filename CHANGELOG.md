@@ -6,5 +6,5 @@
 
 ### Added
 
- - добавлен файл CHANGELOG.md
+ - добавлен новый файл CHANGELOG.md
 
